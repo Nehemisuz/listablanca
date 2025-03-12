@@ -1,8 +1,5 @@
 Rayden_Rydes
-Ohtani_LeBruckner
 Kenneth_Hennessy
-Tomas_Loughty
-Ryan_Mitchell
 Perla_Queen
 Ringo_Gushiken
 Alexander_Kryhzreg
@@ -10,7 +7,6 @@ Kiryu_Arceneaux
 Paul_Blackworth
 Nehemias_Dias
 Hailee_Shephard
-Morgan_Scoffield
 Ryan_Attezesth
 Viktor_Khristensen
 Andres_Berlusconi
